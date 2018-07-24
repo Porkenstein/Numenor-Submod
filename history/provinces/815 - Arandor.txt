@@ -1,0 +1,18 @@
+# County Title
+title = c_arandor
+
+# Settlements
+max_settlements = 5
+
+b_armenelos  = castle
+
+b_romenna = city
+b_tol_uinen = castle
+b_arnamindo = castle
+b_heruost = city
+
+# Misc
+religion="religion_wilderness"
+culture="culture_wilderness"
+
+# History

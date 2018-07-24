@@ -1,0 +1,24 @@
+
+#numenor
+
+technology = {
+	titles = {
+		d_arandor
+		d_andunie
+		d_forandor
+		d_harandor
+	}
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+	}
+		
+	14000 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+

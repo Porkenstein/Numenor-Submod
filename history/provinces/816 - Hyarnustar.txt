@@ -1,0 +1,16 @@
+# County Title
+title = c_hyarnustar
+
+# Settlements
+max_settlements = 3
+
+b_nindamos  = castle
+
+b_sirilost = city
+b_hyarnustar = castle
+
+# Misc
+religion="religion_wilderness"
+culture="culture_wilderness"
+
+# History

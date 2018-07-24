@@ -1,0 +1,196 @@
+e_numenor = {
+	color={ 68 132 253 }
+	color2={ 125 125 142 }	
+	capital = 815 ## Arandor
+	
+	dignity = 50 # Counted as having this many more counties than it does	
+	
+	culture = culture_numenorean
+	
+	allow = {
+		hidden_tooltip = {
+			culture = culture_numenorean
+		}
+	}
+	
+	title = "KING_TAR"
+	title_female = "QUEEN_TAR"
+	title_prefix = "KING_OF"	
+
+	k_numenor = {
+		color={ 247 77 54 }
+		color2={ 136 157 23 }
+			
+		dignity = 25 # Counted as having this many more counties than it does
+		culture = culture_numenorean
+	
+		allow = {
+			hidden_tooltip = {
+				culture = culture_numenorean
+			}
+		}
+			
+		capital = 815 # Arandor
+		
+		d_harandor = {
+		
+			color={ 108 58 58 }
+			color2={ 125 125 142 }
+			
+			capital = 822 ## Emerie
+			
+			c_hyarrostar = {
+				color={ 91 43 54 }
+				color2={ 255 255 255 }
+				
+				b_hyarrostar = {
+				}
+				b_ostotaure = {
+				}
+				b_romenortil = {
+				}
+			}
+			c_hyarnustar = {
+				color={ 102 116 39 }
+				color2={ 255 255 255 }
+				
+				b_nindamos = {
+					holy_site  = religion_numenorean
+					holy_site  = religion_black_numenorean
+				}
+				b_sirilost = {
+				}
+				b_hyarnustar = {
+				}
+			}
+			c_emerie = {
+				color={ 92 139 167 }
+				color2={ 255 255 255 }
+				
+				b_emerie = {
+				}
+				b_carninque = {
+				}
+				b_minas_erendis = {
+				}
+			}
+		}
+		
+		d_forandor = {
+		
+			color={ 158 158 208 }
+			color2={ 125 125 142 }
+			
+			capital = 819 ## Forostar
+		
+			c_orrostar = {
+				color={ 43 108 146 }
+				color2={ 255 255 255 }
+				
+				b_orrostar = {
+				}
+				b_ost_in_orros = {
+				}
+				b_rhunortil = {
+				}
+			}
+			c_forrostar = {
+				color={ 92 139 167 }
+				color2={ 255 255 255 }
+				
+				b_ondosto = {
+				}
+				b_sorontil = {
+				}
+				b_forrost = {
+				}
+			}
+		}
+	
+		d_arandor = {
+			color={ 198 198 198 }
+			color2={ 125 125 142 }
+			
+			capital = 815 ## Arandor
+			
+			dignity = 10
+			
+			c_arandor = {
+				color={ 194 129 255 }
+				color2={ 255 255 255 }
+			
+				b_armenelos = {
+					holy_site  = religion_numenorean
+					holy_site  = religion_black_numenorean
+				}
+				b_romenna = {
+				}
+				b_tol_uinen = {
+				}
+				b_arnamindo = {
+				}
+				b_heruost = {
+				}		
+			}			
+			c_mittalmar = {
+					color={ 217 223 230 }
+					color2={ 255 255 255 }
+			
+				b_mittalmar = {	
+				}
+				b_nunduine = {	
+				}
+				b_minas_siril = {	
+				}			
+			}
+			c_meneltarma = {
+				color={ 223 223 223 }
+				color2={ 255 255 255 }
+				
+				b_meneltarma = {
+					holy_site  = religion_numenorean
+					holy_site  = religion_black_numenorean
+				}
+			}
+		}
+		d_andunie = {
+			color={ 226 220 173 }
+			color2={ 125 125 142 }
+			
+			capital = 818 ## Andustar
+			
+			c_andustar = {
+				color={ 226 220 173 }
+				color2={ 255 255 255 }
+			
+				b_andunie = {
+					holy_site  = religion_numenorean
+					holy_site  = religion_black_numenorean
+				}
+				b_dunost = {
+				}
+				b_oromet = {
+				}
+				b_eldameldost = {
+				}
+				b_minas_quendi = {
+				}
+			}	
+			c_eldalonde = {
+					color={ 174 184 106 }
+					color2={ 255 255 255 }
+			
+				b_eldalonde = {	
+					holy_site  = religion_numenorean
+					holy_site  = religion_black_numenorean
+				}
+				b_hoplaica = {	
+				}
+				b_altalonde = {	
+				}	
+				b_nisinen = {	
+				}				
+			}	
+		}
+	}
+}

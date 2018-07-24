@@ -1,0 +1,15 @@
+# County Title
+title = c_mittalmar
+
+# Settlements
+max_settlements = 3
+
+b_mittalmar  = castle
+b_nunduine  = city
+b_minas_siril  = castle
+
+# Misc
+religion="religion_numenorean"
+culture="culture_numenorean"
+
+# History

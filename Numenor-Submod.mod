@@ -1,5 +1,0 @@
-name = "Middle-Earth Numenor Submod"
-path = "mod/Numenor-Submod"
-user_dir = "Numenor-Submod"
-picture="cover.jpg"
-replace_path = "map"

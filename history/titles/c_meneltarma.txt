@@ -1,0 +1,6 @@
+600.1.1={
+	holder = 31008
+	law = succ_primogeniture
+	law = cognatic_succession
+	liege = e_numenor
+}

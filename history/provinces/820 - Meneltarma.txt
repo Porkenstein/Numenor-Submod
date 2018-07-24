@@ -1,0 +1,13 @@
+# County Title
+title = c_meneltarma
+
+# Settlements
+max_settlements = 1
+
+b_meneltarma  = temple
+
+# Misc
+religion="religion_numenorean"
+culture="culture_numenorean"
+
+# History

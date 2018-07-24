@@ -1,0 +1,15 @@
+# County Title
+title = c_forrostar
+
+# Settlements
+max_settlements = 3
+
+b_ondosto  = castle
+b_sorontil  = castle
+b_forrost = city
+
+# Misc
+religion="religion_wilderness"
+culture="culture_wilderness"
+
+# History

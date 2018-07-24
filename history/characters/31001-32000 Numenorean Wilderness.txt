@@ -1,0 +1,139 @@
+# Hyarrostar
+
+31001 = {
+	name="Ruins"
+	religion="religion_wilderness"
+	culture="culture_wilderness"
+	trait = wilderness
+	disallow_random_traits = yes    dynasty = 19013
+
+	500.1.1={
+		birth="500.1.1"
+	}
+}
+
+# Hyarnustar
+
+31002 = {
+	name="Ruins"
+	religion="religion_wilderness"
+	culture="culture_wilderness"
+	trait = wilderness
+	disallow_random_traits = yes    dynasty = 19013
+
+	500.1.1={
+		birth="500.1.1"
+	}
+}
+
+# Emerie
+
+31003 = {
+	name="Ruins"
+	religion="religion_wilderness"
+	culture="culture_wilderness"
+	trait = wilderness
+	disallow_random_traits = yes    dynasty = 19013
+
+	500.1.1={
+		birth="500.1.1"
+	}
+}
+
+# Orrostar
+
+31004 = {
+	name="Ruins"
+	religion="religion_wilderness"
+	culture="culture_wilderness"
+	trait = wilderness
+	disallow_random_traits = yes    dynasty = 19013
+
+	500.1.1={
+		birth="500.1.1"
+	}
+}
+
+# Forostar
+
+31005 = {
+	name="Ruins"
+	religion="religion_wilderness"
+	culture="culture_wilderness"
+	trait = wilderness
+	disallow_random_traits = yes    dynasty = 19013
+
+	500.1.1={
+		birth="500.1.1"
+	}
+}
+
+# Arandor
+
+31006 = {
+	name="Ruins"
+	religion="religion_wilderness"
+	culture="culture_wilderness"
+	trait = wilderness
+	disallow_random_traits = yes    dynasty = 19013
+
+	500.1.1={
+		birth="500.1.1"
+	}
+}
+
+# Mittalmar
+
+31007 = {
+	name="Ruins"
+	religion="religion_wilderness"
+	culture="culture_wilderness"
+	trait = wilderness
+	disallow_random_traits = yes    dynasty = 19013
+
+	500.1.1={
+		birth="500.1.1"
+	}
+}
+
+# Meneltarma
+
+31008 = {
+	name="Pillar"
+	religion="religion_wilderness"
+	culture="culture_wilderness"
+	trait = wilderness
+	disallow_random_traits = yes    dynasty = 19013
+
+	500.1.1={
+		birth="500.1.1"
+	}
+}
+
+# Andustar
+
+31009 = {
+	name="Ruins"
+	religion="religion_wilderness"
+	culture="culture_wilderness"
+	trait = wilderness
+	disallow_random_traits = yes    dynasty = 19013
+
+	500.1.1={
+		birth="500.1.1"
+	}
+}
+
+# Eldalonde
+
+31010 = {
+	name="Ruins"
+	religion="religion_wilderness"
+	culture="culture_wilderness"
+	trait = wilderness
+	disallow_random_traits = yes    dynasty = 19013
+
+	500.1.1={
+		birth="500.1.1"
+	}
+}

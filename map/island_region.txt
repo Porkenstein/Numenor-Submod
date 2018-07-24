@@ -29,3 +29,7 @@ region_himling = {
 region_tolfalas = {
 	provinces = { 67 367 }
 }
+
+region_numenor = {
+	provinces = { 813 814 815 816 817 818 819 820 821 822 }
+}

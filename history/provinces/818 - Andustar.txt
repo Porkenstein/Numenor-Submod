@@ -1,0 +1,18 @@
+# County Title
+title = c_andustar
+
+# Settlements
+max_settlements = 5
+
+b_andunie  = castle
+
+b_dunost = city
+b_oromet = castle
+b_eldameldost = city
+b_minas_quendi = castle
+
+# Misc
+religion="religion_wilderness"
+culture="culture_wilderness"
+
+# History

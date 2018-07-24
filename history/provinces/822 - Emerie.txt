@@ -1,0 +1,15 @@
+# County Title
+title = c_emerie
+
+# Settlements
+max_settlements = 3
+
+b_emerie  = castle
+b_carninque  = city
+b_minas_erendis  = castle
+
+# Misc
+religion="religion_wilderness"
+culture="culture_wilderness"
+
+# History

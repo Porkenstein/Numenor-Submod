@@ -1,0 +1,16 @@
+# County Title
+title = c_hyarrostar
+
+# Settlements
+max_settlements = 3
+
+b_hyarrostar  = castle
+
+b_ostotaure = city
+b_romenortil = castle
+
+# Misc
+religion="religion_wilderness"
+culture="culture_wilderness"
+
+# History

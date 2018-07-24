@@ -1,0 +1,16 @@
+# County Title
+title = c_orrostar
+
+# Settlements
+max_settlements = 3
+
+b_orrostar  = castle
+
+b_ost_in_orros = city
+b_rhunortil = castle
+
+# Misc
+religion="religion_wilderness"
+culture="culture_wilderness"
+
+# History

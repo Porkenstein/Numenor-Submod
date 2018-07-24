@@ -1,0 +1,17 @@
+# County Title
+title = c_eldalonde
+
+# Settlements
+max_settlements = 4
+
+b_eldalonde  = castle
+
+b_hoplaica = city
+b_altalonde = castle
+b_nisinen = city
+
+# Misc
+religion="religion_wilderness"
+culture="culture_wilderness"
+
+# History
